@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=FFED00&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Krishirajsinh+Puwar;A+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Problem+Solver+%F0%9F%A4%94%F0%9F%A7%A9%F0%9F%92%A1;A+Tech+enthusiast+%F0%9F%92%BB%E2%9A%99%EF%B8%8F%F0%9F%8C%90%F0%9F%A4%96" alt="Typing SVG" style="pointer-events: none;">
 
-I'm a 21-year-old Computer Science Engineering student at the Technical University of Munich and 42Heilbronn. As a Coffee to Code Alchemist with Multi-threaded Mind and Syntax Shapeshifter abilities, I navigate the coding realms, turning caffeine into elegant lines of code, seamlessly juggling multiple tasks, and effortlessly adapting to the syntax of any programming language.
+I'm a 21-year-old Computer Science Engineering student at the **Technical University of Munich** and **42Heilbronn**. As a Coffee to Code Alchemist with Multi-threaded Mind and Syntax Shapeshifter abilities, I navigate the coding realms, turning caffeine into elegant lines of code, seamlessly juggling multiple tasks, and effortlessly adapting to the syntax of any programming language.
 
 ## 🔧 Languages and Tools
 
-<div style="text-align:center;">
+<p align="center">
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="pointer-events: none;">
@@ -13,13 +13,14 @@ I'm a 21-year-old Computer Science Engineering student at the Technical Universi
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="pointer-events: none;">
+	<br>
 	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;">
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="pointer-events: none;">
-</div>
+</p>
 
 
 ## 🚀 Current Endeavors
@@ -30,9 +31,11 @@ I am consistently driven to learn and expand my knowledge base proactively. Pres
 
 I'm always eager to collaborate on engaging and challenging opportunities that contribute to my personal and professional growth in every aspect.
 
-<a href="https://www.linkedin.com/in/krishirajsinh-p" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:krishirajpuwar@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<p align="center">
+	<a href="https://www.linkedin.com/in/krishirajsinh-p" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="mailto:krishirajpuwar@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+	</a>
+</p>
