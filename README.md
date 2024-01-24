@@ -29,7 +29,7 @@ I am consistently driven to learn and expand my knowledge base proactively. Pres
 
 ## 🌐 Connect with Me
 
-I'm always eager to collaborate on engaging and challenging opportunities that contribute to my personal and professional growth in every aspect.
+I'm always eager to collaborate on engaging and challenging opportunities.
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/krishirajsinh-p" target="_blank">
