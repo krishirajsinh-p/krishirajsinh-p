@@ -39,10 +39,10 @@ I'm always eager to collaborate on engaging and challenging opportunities.
 	<a href="https://www.linkedin.com/in/krishirajsinh-p" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="mailto:krishirajpuwar@gmail.com">
+	<a href="mailto:krishirajsinh1505puwar@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a>
-	<a href="https://krishirajsinh-puwar.42web.io/">
+	<a href="https://krishirajsinh-puwar.42web.io/" target="_blank">
 		<img src="https://img.shields.io/badge/Website-74aa9c?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website">
 	</a>
 </p>
