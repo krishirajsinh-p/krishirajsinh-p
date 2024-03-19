@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=FFED00&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Krishirajsinh+Puwar;A+Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Problem+Solver+%F0%9F%A4%94%F0%9F%A7%A9%F0%9F%92%A1;A+Tech+enthusiast+%F0%9F%92%BB%E2%9A%99%EF%B8%8F%F0%9F%8C%90%F0%9F%A4%96" alt="Typing SVG" style="pointer-events: none;">
 
-I'm a 21-year-old Computer Science Engineering student at the **Technical University of Munich** and **42Heilbronn**. As a Coffee to Code Alchemist with Multi-threaded Mind and Syntax Shapeshifter abilities, I navigate the coding realms, turning caffeine into elegant lines of code, seamlessly juggling multiple tasks, and effortlessly adapting to the syntax of any programming language.
+I'm a 21-year-old Computer Science Engineering student at the **Technical University of Munich**. As a Coffee to Code Alchemist with Multi-threaded Mind and Syntax Shapeshifter abilities, I navigate the coding realms, turning caffeine into elegant lines of code, seamlessly juggling multiple tasks, and effortlessly adapting to the syntax of any programming language.
 
 ## 🔧 Languages and Tools
 
